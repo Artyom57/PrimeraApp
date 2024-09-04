@@ -1,0 +1,2 @@
+En este proyecto se realizo una app para calcular propinas utilizando kotlin, se utilizaron funciones basicas y se aprendio a utiliarlas para la creacion de aplicaciones android.![Captura de pantalla 2024-09-03 191837](https://github.com/user-attachments/assets/07e287b8-c76e-444c-b09e-28dac67236b1)
+![Captura de pantalla 2024-09-03 191634](https://github.com/user-attachments/assets/4813fff3-d4d3-4200-ae75-d0e8f9316bdb)
